@@ -37,7 +37,7 @@ export default function Layout({children}) {
           </div>
         </div>
         <div className="navbar-end">
-          <a href="">
+          <a href="https://github.com/fullstakpl/headless-examples">
             <img src="/ghlogowhite.png" className="max-h-10" />
           </a>
         </div>
