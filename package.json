@@ -6,9 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.4",
+    "daisyui": "^1.14.0",
+    "graphql-request": "^3.5.0",
     "next": "latest",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "swr": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
